@@ -1,0 +1,11 @@
+.red{
+    color: red;
+}
+
+.size20{
+    color:blueviolet ;
+    background-color: burlywood;
+    font-size: medium;
+    width: 400px;
+    height: 300px;
+}
